@@ -1,0 +1,7 @@
+{
+  "name": "ion-refresher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
