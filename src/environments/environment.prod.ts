@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiUrl: 'http://horeca-demo.passepartout.sm:900/api/'
 };
